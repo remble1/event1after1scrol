@@ -1,0 +1,10 @@
+div {
+    top: 50%;
+    left: 50%;
+    position: fixed; /* box dont change position */
+    background-color: black;
+    transform: translate(-50%,-50%);
+}
+body {
+    height: 10000vh; /* size of page now is 10 much longer than 1 card */
+}
